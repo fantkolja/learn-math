@@ -1,0 +1,13 @@
+name: learn_math
+channels:
+  - defaults
+dependencies:
+  - pip
+  - matplotlib
+  - jupyter
+  - pandas
+  - scikit-learn
+  - numpy
+  - scipy
+  - statsmodels
+prefix: /Users/mykolafant/anaconda3/envs/learn_math
